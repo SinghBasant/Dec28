@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 	
-	fmt.Println("Hello Git from Go!")
+	fmt.Println("Hello Git from Go Dec 2015!")
 }
 
 
